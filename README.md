@@ -27,4 +27,13 @@ This project analyzes sales data for **Vintage Couture**, a boutique retailer of
 8.	Optimize underperforming channels (Store and Vendor) by reviewing their customer touchpoints, product availability, and promotional efforts.
 
 ##  How to Use
+# Open the Excel file located in the data folder:
+- Vintage_Couture_Sales
+# Explore the following :
+- Vintage_Clothing_Sales_Data.xlsx – Uncleaned dataset used for analysis
+- Vintage_Clothing_Sales_Dashboard.xlsx – Cleaned dataset used for analysis
+- Vintage_Clothing_Sales_Dashboard_Screenshot - Static Dashboard 
+
+# 📌 Ensure you have Microsoft Excel or any compatible spreadsheet software installed.
+
 
