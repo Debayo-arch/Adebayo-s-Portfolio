@@ -1,2 +1,1 @@
-# Adebayo's Portfolio
-# [Project 1: Vintage Couture Sales Analysis](
+# [Vintage Couture Sales Analysis](https://debayo-arch.github.io/Adebayo-s-Portfolio/)
