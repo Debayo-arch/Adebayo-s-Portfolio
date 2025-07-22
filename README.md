@@ -1,4 +1,4 @@
-# [Project: Vintage Couture Sales Analysis]([https://debayo-arch.github.io/Adebayo-s-Portfolio/](https://github.com/Debayo-arch/Adebayo-s-Portfolio/blob/main/Vintage_Clothing_Sales_Dashboard.xlsx)
+# [Project: Vintage Couture Sales Analysis](https://github.com/Debayo-arch/Adebayo-s-Portfolio/blob/main/Vintage_Clothing_Sales_Dashboard.xlsx)
 ## Overview 
 This is the first project i did during my internship at Dataleum Academy.
 This project analyzes sales data for **Vintage Couture**, a boutique retailer of vintage clothing, to uncover insights into revenue trends, customer demographics, and sales performance. The goal is to support data-driven decisions in inventory, marketing, and customer engagement using visualizations and an interactive dashboard.
